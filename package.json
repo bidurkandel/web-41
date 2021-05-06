@@ -17,6 +17,15 @@
   },
   "dependencies": {
     "dotenv": "^9.0.0",
-    "express": "^4.17.1"
-  }
+    "express": "^4.17.1",
+    "id": "0.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bidurkandel/web-41.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bidurkandel/web-41/issues"
+  },
+  "homepage": "https://github.com/bidurkandel/web-41#readme"
 }
